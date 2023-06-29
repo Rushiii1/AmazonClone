@@ -273,7 +273,7 @@ span{
     color: #f3cd00;
   }
   .back-p{
-    background-color: #242a31;
+    background-color: #37475a;
     /* height:50px; */
     color: white;
     text-align: center;
@@ -282,3 +282,42 @@ span{
     text-decoration: none;
  }
 
+ /* footer panel  */
+ .foot-panel{
+    display: flex;
+    background-color: #222f3d;
+    height: 350px;
+    justify-content: space-evenly;
+    color: white;
+ }
+ ul{
+    margin-top: 40px;
+ }
+ul a{
+    display: block;
+    color: white;
+    font-size: 0.85rem;
+    color: #dddddd;
+    margin-top: 10px;
+    text-decoration: none;
+    text-align: left;
+}
+ul p{
+    text-align: left;
+}
+
+.foot-last{
+    background-color: #0f1111;
+    color: white;
+    padding: 10px;
+}
+.pages a{
+    text-decoration: none;
+    color: white;
+    font-size: 0.75rem;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.copyright{
+    font-size: 0.85rem;
+}
