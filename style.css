@@ -217,6 +217,7 @@ span{
     
   }
   .cart-item img {
+    padding-left: 20px;
     
   }
 
@@ -241,3 +242,43 @@ span{
     color: white;
     padding: 7px;
   }
+
+
+  /* Footer-Strip */
+  .foot-strip{
+    text-align: center;
+    margin-top: 30px;
+    /* background-color:#cccccc; */
+    padding-top: 20px;
+  }
+  .foot-btn{
+    width: 225px;
+    margin-top: 8px;
+    border: none;
+    background-color: #f3cd00;
+    padding: 5px;
+    border-radius: 6px;
+    font-size: 15px;
+    
+    
+  }
+  .foot-p{
+    font-size: 0.8rem;
+    margin-top: 10px;
+  }
+  .foot-p a{
+    font-size: 12px;
+  }
+  hr{
+    color: #f3cd00;
+  }
+  .back-p{
+    background-color: #242a31;
+    /* height:50px; */
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 10px;
+    text-decoration: none;
+ }
+
